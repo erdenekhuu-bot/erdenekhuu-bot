@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @erdenekhuu-bot
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning everything
 - ⚡ Fun fact: i love anime
 
