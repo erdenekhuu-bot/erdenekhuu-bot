@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erdenekhuu-bot
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning everything, i am young developer
 - ⚡ Fun fact: i love anime
 
 <!---
