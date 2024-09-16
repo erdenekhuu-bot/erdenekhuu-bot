@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **whatever you want.**
 
-- 📫 How to reach me **nvipree441@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
