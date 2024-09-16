@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erdenekhuu-Bot</h1>
+<h1 align="center">Hi 👋, I'm erdenekhuu-bot</h1>
 <h3 align="center">just dreamer</h3>
 
 - 🔭 I’m currently working on **Start Up**
